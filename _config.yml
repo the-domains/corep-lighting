@@ -1,20 +1,4 @@
-name: Corep lighting
-favicon: null
-layout_spectrum: 0.1382768270559609
 typography_spectrum: 0.23636940424330533
-title: Lighting Manufacturer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,24 @@ color:
   lightness: 0.18120050174184144
   saturation: 0.16287907306104898
   rhythmicContrast: 0.6376929613761604
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1382768270559609
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Corep lighting
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Corep Iberica on Pinterest
+    url: 'https://pt.pinterest.com/corepiberica/our-production/'
+    type: external
+favicon: null
+title: Lighting Manufacturer
 purpose: []
