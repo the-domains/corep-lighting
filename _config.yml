@@ -13,7 +13,7 @@ color:
 opengraph:
   image: null
   type: null
-  appId: null
+  appId: 'https://www.facebook.com/corepiberica'
 layout_spectrum: 0.1382768270559609
 analytics:
   google: null
