@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lighting Manufacturer]]></title>
+        <description><![CDATA[Lighting Manufacturer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 31 Aug 2016 22:43:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Corep Iberica - LightingHomeCorep Iberica - Lighting]]></title>
+            <description><![CDATA[<article><h1>Corep Iberica - LightingHomeCorep Iberica - Lighting</h1><p>Corep Iberica - Lighting</p><img src="http://www.corep.pt/images/dsc_0045.jpg?crc=3874084800"></article>]]></description>
+            <link>http://www.corep.pt/</link>
+            <guid isPermaLink="false">d5df1885-19df-4715-96b6-580af2ab6d06</guid>
+            <pubDate>Wed, 31 Aug 2016 22:32:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
