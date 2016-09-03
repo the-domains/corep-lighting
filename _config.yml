@@ -28,6 +28,9 @@ navigation:
   - name: Corep Iberica on Pinterest
     url: 'https://pt.pinterest.com/corepiberica/our-production/'
     type: external
+  - name: Corep France
+    url: 'http://www.corep.com/'
+    type: external
 favicon: null
 title: Lighting Manufacturer
 purpose: []
