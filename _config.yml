@@ -31,6 +31,9 @@ navigation:
   - name: Corep France
     url: 'http://www.corep.com/'
     type: external
+  - name: Face
+    url: 'https://www.facebook.com/corepiberica'
+    type: external
 favicon: null
 title: Lighting Manufacturer
 purpose: []
